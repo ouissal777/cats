@@ -1,9 +1,5 @@
-# Cats Academy — TypeScript Mini Project
+#  TypeScript Mini Project
 
-Projet du prof (Hogwarts Academy) adapté au thème des chats, avec les 6 exercices du TAF.
+Projet Hogwarts Academy adapté au thème des chats.
 
-```bash
-npm install
-npm start        # lance src/main.ts
-npm run typecheck
-```
+
